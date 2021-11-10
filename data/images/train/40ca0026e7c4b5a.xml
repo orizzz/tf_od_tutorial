@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mobil_jeep</folder>
+	<filename>40ca0026e7c4b5a.jpg</filename>
+	<path>/home/oriz_1st/Documents/Project/tensor-research/TensorFlow/workspace/scraping_image/images/mobil_jeep/40ca0026e7c4b5a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>263</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mobil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>10</ymin>
+			<xmax>259</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

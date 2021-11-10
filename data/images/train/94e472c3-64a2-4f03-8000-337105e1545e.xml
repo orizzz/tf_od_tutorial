@@ -1,0 +1,26 @@
+<annotation>
+	<folder>motor</folder>
+	<filename>94e472c3-64a2-4f03-8000-337105e1545e.jpg</filename>
+	<path>/home/oriz_1st/Documents/Project/tensor-research/TensorFlow/image/dataset/motor/94e472c3-64a2-4f03-8000-337105e1545e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1083</xmin>
+			<ymin>128</ymin>
+			<xmax>1496</xmax>
+			<ymax>983</ymax>
+		</bndbox>
+	</object>
+</annotation>

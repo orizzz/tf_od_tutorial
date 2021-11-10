@@ -1,0 +1,26 @@
+<annotation>
+	<folder>mobil</folder>
+	<filename>193fa03a415a1323.jpg</filename>
+	<path>/home/oriz_1st/Documents/Project/tensor-research/TensorFlow/image/dataset/mobil/193fa03a415a1323.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mobil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>827</ymin>
+			<xmax>810</xmax>
+			<ymax>859</ymax>
+		</bndbox>
+	</object>
+</annotation>
